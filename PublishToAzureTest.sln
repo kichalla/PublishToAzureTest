@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27617.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPWebApp", "RPWebApp\RPWebApp.csproj", "{41BA15E2-FB2F-4F8C-B275-0E0167688F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BA15E2-FB2F-4F8C-B275-0E0167688F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BA15E2-FB2F-4F8C-B275-0E0167688F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BA15E2-FB2F-4F8C-B275-0E0167688F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BA15E2-FB2F-4F8C-B275-0E0167688F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707CFAB6-89A0-49B8-96A4-2136219E2060}
+	EndGlobalSection
+EndGlobal
